@@ -1,0 +1,13 @@
+{
+  "name": "WildFly marketplace",
+  "owner": {
+    "name": "WildFly team"
+  },
+  "plugins": [
+    {
+      "name": "migration-plugin",
+      "source": "./plugins/wildfly-migration",
+      "description": "WildFly migration tooling"
+    }
+  ]
+}

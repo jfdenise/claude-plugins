@@ -75,7 +75,7 @@ You are helping migrate a Maven project from the WildFly JAR Maven Plugin to the
      - `wildfly-jar:dev` → `wildfly:dev`
      - `wildfly-jar:shutdown` → `wildfly:shutdown`
    - Suggest testing with `mvn clean wildfly:package`
-   - Point to the full migration guide at `/Users/jdenise/workspaces/graal/states/state_2026_05_01/BOOTABLE-JAR-MIGRATION.adoc`
+   - Point to the full migration guide at `https://github.com/jfdenise/wildfly.org/blob/migrate_bootable_jar/content/guides/wildfly-jar-migration.adoc`
 
 ## Important notes:
 
